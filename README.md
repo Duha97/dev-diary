@@ -18,5 +18,5 @@ Hello, my name is **Duha** and I am a new *software engineer* (Introduction)
 ## Here is what I learned from terminal commands sheet 
 
 I learned the commands in the picture attached below:
-![Screensho of my terminal screen]()
+![Screensho of my terminal screen](./dev.png)
 
